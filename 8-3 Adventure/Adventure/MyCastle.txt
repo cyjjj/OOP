@@ -1,0 +1,49 @@
+room0  2 east down
+room1  3 east west down
+room2  3 east west down
+room3  2 west down
+room4  2 east down
+room5  2 east west
+room6  2 west down
+room7  3 east up down
+room8  4 east west up down
+room9  2 west up
+room10 2 up down
+room11 2 up down
+room12 2 east down
+room13 2 west up
+room14 3 east up down
+room15 4 east west up down
+room16 2 east west
+room17 4 east west up down
+room18 3 east west up
+room19 4 east west up down
+room20 1 west
+room21 2 east up
+room22 4 east west up down
+room23 2 west down
+room24 3 east up down
+room25 2 east west
+room26 3 east west up
+room27 2 west down
+room28 2 east down
+room29 2 west up
+room30 3 east up down
+room31 3 east west up
+room32 2 west down
+room33 1 down
+room34 2 up down
+room35 2 east up
+room36 3 east west down
+room37 4 east west up down
+room38 2 west down
+room39 2 up down
+room40 3 east up down
+room41 2 west up
+room42 1 east
+room43 2 west up
+room44 2 east up
+lobby  3 east west up
+room46 3 east west up
+room47 3 east west up
+room48 1 west

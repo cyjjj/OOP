@@ -1,0 +1,10 @@
+7
+Amy Chinese 1 Math 3 English 1 Physics 5 Chemis 3 Biology 4 History 3
+Bob Chinese 4 Math 1 English 2 Physics 5 Chemis 3 Biology 2 History 3
+Charles Chinese 3 Math 5 English 5 Physics -1 Chemis 5 Biology 3 History 5
+Daisy Chinese 3 Math 5 English 2 Physics 4 Chemis 1 Biology 5 History 2
+Elize Chinese 5 Math 2 English 5 Physics 3 Chemis 3 Biology 3 History 4
+Peter Chinese 2 Math -1 English 3 Physics 2 Chemis 5 Biology 4 History 4
+Tom Chinese 1 Math 3 English 3 Physics 5 Chemis 4 Biology 2 History 5
+John Chinese 4 Math 3 English -1 Physics 4 Chemis 2 Biology 3 History 3
+Harry Chinese 3 Math 2 English 3 Physics 3 Chemis 5 Biology 5 History 1
